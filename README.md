@@ -1,4 +1,4 @@
-# Tugas-Lravel-Akhir
+# Tugas-Laravel-Akhir
 project perpustakaan
 file perpustakaan serupa ini bisa dilihat di https://github.com/herziwp/perpus-laravel
 untuk yang dirubah berupa = Link Title. Home Title. welcome. sidebar.
